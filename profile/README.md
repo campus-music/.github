@@ -9,9 +9,9 @@ build their audience, and earn support from fans.
 To create the world’s largest community of campus-based musicians and listeners.
 
 ## Products
-- Campus Music Web App** – Stream, upload, and discover student music.
-- Campus Artist Tools** – Upload tracks, track analytics, and build your brand.
-- Support System** – Earn financial support directly from fans.
+- Campus Music Web App – Stream, upload, and discover student music.
+- Campus Artist Tools – Upload tracks, track analytics, and build your brand.
+- Support System – Earn financial support directly from fans.
 
 ## Technologies
 React, Node.js, Express, PostgreSQL, Prisma, Stripe, Cloud Storage
